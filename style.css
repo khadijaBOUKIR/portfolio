@@ -1,0 +1,215 @@
+@font-face {
+    font-family: 'ambleregular';
+    src: url('Amble-Regular-webfont.eot');
+    src: url('Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('Amble-Regular-webfont.woff2') format('woff2'), url('Amble-Regular-webfont.woff') format('woff'), url('Amble-Regular-webfont.ttf') format('truetype'), url('Amble-Regular-webfont.svg#ambleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    background-image: url(./images/wp4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    color: whitesmoke;
+}
+
+.liens {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+    margin-top: 63px;
+}
+
+.text {
+    font-size: 24px;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.text-2 {
+    margin-left: 95px;
+    margin-top: 200px;
+}
+
+.home {
+    text-decoration: none;
+    color: red;
+    font-size: 1.5rem;
+    margin-right: 35px;
+}
+
+.about {
+    text-decoration: none;
+    color: red;
+    font-size: 1.5rem;
+}
+
+.title {
+    font-size: 52px;
+    margin-left: 20px;
+    margin-top: 285px;
+    color: burlywood;
+}
+
+.text-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 474px;
+}
+
+.text-img-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.img-2 {
+    border-radius: 108px;
+    width: 188px;
+    margin-top: 209px;
+}
+
+.img-1 {
+    height: 265px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.icons {
+    color: grey;
+    font-size: 15px;
+    margin-top: 17px;
+}
+
+.icon-insta {
+    background: linear-gradient(rgba(255, 122, 0, 1), rgba(255, 0, 199, 1));
+    color: whitesmoke;
+}
+
+a {
+    color: gray;
+}
+
+.t {
+    font-family: amblebold_italic;
+}
+
+.l-s {
+    flex: 1;
+    margin-top: -1px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.n-p {
+    display: flex;
+}
+
+.trait {
+    border: 1px rgb(0, 0, 0) solid;
+    width: 300px;
+}
+
+.rectangle {
+    border: whitesmoke solid 1px;
+    height: 13px;
+    border-radius: 8px;
+}
+
+.subtitle {
+    font-weight: 100;
+    font-size: 50px;
+    animation-name: mymove;
+    animation-fill-mode: forwards;
+    animation-duration: 15s;
+}
+
+.skills {
+    margin-top: 3px;
+    display: flex;
+    margin-left: 20;
+}
+
+.p-l {
+    flex: 1;
+}
+
+.percentage {
+    margin-top: 16px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    border: whitesmoke solid 1px;
+    border-radius: 8px;
+}
+
+.name {
+    flex: 1;
+    font-weight: 800;
+    font-family: amblebold;
+}
+
+.html {
+    width: 100%;
+    background-color: grey;
+}
+
+.css {
+    width: 85%;
+    background-color: grey;
+}
+
+.js {
+    width: 30%;
+    background-color: gray;
+}
+
+.gulp {
+    width: 50%;
+    background-color: gray;
+}
+
+.git {
+    width: 90%;
+    background-color: gray;
+}
+
+.figma {
+    width: 40%;
+    background-color: grey;
+}
+
+.icon {
+    width: 95%;
+    background-color: gray;
+}
+
+.arab {
+    width: 100%;
+    background-color: gray;
+}
+
+.frensh {
+    width: 50%;
+    background-color: gray;
+}
+
+.hindi {
+    width: 25%;
+    background-color: gray;
+}
+
+.english {
+    width: 80%;
+    background-color: gray;
+}
