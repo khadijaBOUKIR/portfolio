@@ -1,7 +1,8 @@
-@font-face {
-    font-family: 'ambleregular';
-    src: url('Amble-Regular-webfont.eot');
-    src: url('Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('Amble-Regular-webfont.woff2') format('woff2'), url('Amble-Regular-webfont.woff') format('woff'), url('Amble-Regular-webfont.ttf') format('truetype'), url('Amble-Regular-webfont.svg#ambleregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+@import "../fonts/web fonts/amble_bold_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_bolditalic_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_italic_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_light_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_lightcondensed_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_lightcondenseditalic_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_lightitalic_macroman/stylesheet.css";
+@import "../fonts/web fonts/amble_regular_macroman/stylesheet.css";
