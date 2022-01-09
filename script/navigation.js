@@ -1,3 +1,5 @@
 $(document).ready(function() {
-    $("#body").load("../sections/menu-section.html");
+    $("#menu").load("../sections/menu-section.html");
+    $("#section").load("../sections/home-section.html");
+
 })
