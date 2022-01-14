@@ -121,7 +121,7 @@ a {
     position: relative;
 }
 
-.skills {
+.skills-languages {
     margin-top: 3px;
     display: flex;
     margin-left: 20;
@@ -185,7 +185,7 @@ a {
     background-color: gray;
 }
 
-.arab {
+.arabic {
     width: 100%;
     background-color: gray;
 }

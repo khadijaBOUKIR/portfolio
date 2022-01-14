@@ -1,0 +1,34 @@
+{
+
+    "My Skills": [{
+            "name": "HTML",
+            "percentage": "100%"
+        },
+        {
+            "name": "CSS / SCSS / FlexBox / Animation ",
+            "percentage": "85 % "
+        },
+        {
+            "name": "JAVASCRIPT ",
+            "percentage": "30 % "
+        },
+        {
+            "name": "GIT / GITHUB ",
+            "percentage": " 90 %"
+        },
+        {
+            "name": " GULP ",
+            "percentage": "50 %"
+        },
+
+        {
+            "name": " FIGMA ",
+            "percentage": "40 %"
+        },
+        {
+            "name": "ICON / FontAwsome ",
+            "percentage": "95 %"
+
+        }
+    ]
+}

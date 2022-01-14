@@ -1,0 +1,19 @@
+{
+    "languages": [{
+            "name": "ARABIC ",
+            "percentage": "100 %"
+        },
+        {
+            "name": "ENGLISH",
+            "percentage": "80 %"
+        },
+        {
+            "name": "FRENSH",
+            "percentage": " 50 %"
+        },
+        {
+            "name": " HINDI",
+            "percentage": " 25 % "
+        }
+    ]
+}
