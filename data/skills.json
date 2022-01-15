@@ -1,6 +1,6 @@
 {
 
-    "My Skills": [{
+    "skills": [{
             "name": "HTML",
             "percentage": "100%"
         },
